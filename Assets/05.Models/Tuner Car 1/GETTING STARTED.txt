@@ -1,0 +1,16 @@
+Thank you for purchasing Tuner Car Model Kit
+
+Important! There are a few things you need to do. 
+Firstly, drag the car prefab to your current scene. 
+Add a new layer, name it whatever you want. 
+Select Tuner Car in the hierarchy.
+Change the current layer to the layer you just created (Yes, change children). 
+Select the reflection probe of the car. 
+Under 'Culling Mask', uncheck the car's layer. 
+
+These steps are necessary to ensure that the car's body only reflects the enviroment and doesn't reflect the interiors. 
+If you are not going to use the reflection probe, you may ignore the steps above and deactivate the reflection probe object instead.
+
+Note :
+- All the tuning parts and lightings are already in the prefab
+- The Lights are all turned off in default

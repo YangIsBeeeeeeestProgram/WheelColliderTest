@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 804b1133011894d4cb8fbd087c4e865e
+timeCreated: 1478791330
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body Parts
+    100002: Bodyshell
+    100004: Bonnet
+    100006: Bonnet 1
+    100008: Bonnet 2
+    100010: Bonnet 3
+    100012: Bonnet 4
+    100014: Bonnet 5
+    100016: Bonnet STock
+    100018: Boot
+    100020: Bumper F 1
+    100022: Bumper F 2
+    100024: Bumper F 3
+    100026: Bumper F 4
+    100028: Bumper F 5
+    100030: Bumper F 6
+    100032: Bumper F Stock
+    100034: Bumper R 1
+    100036: Bumper R 2
+    100038: Bumper R 3
+    100040: Bumper R 4
+    100042: Bumper R 5
+    100044: Bumper R Stock
+    100046: Bumpers F
+    100048: Bumpers R
+    100050: Cage 1
+    100052: Cage 2
+    100054: Cage 3
+    100056: Cage 4
+    100058: Chassis
+    100060: Collider F 1
+    100062: Collider F 2
+    100064: Collider R 1
+    100066: Collider R 2
+    100068: Colliders
+    100070: Door LF
+    100072: Door RF
+    100074: Drivetrain
+    100076: Drivetrain Parts
+    100078: Engine
+    100080: Engine Parts
+    100082: Engine_MeshPart0
+    100084: Engine_MeshPart1
+    100086: Exhaust
+    100088: Exhaust 1
+    100090: Exhaust 2
+    100092: Exhaust Stock
+    100094: Fuel Needle
+    100096: Headlight L
+    100098: Headlight R
+    100100: Hub LF
+    100102: Hub LR
+    100104: Hub RF
+    100106: Hub RR
+    100108: Interior
+    100110: Lights
+    100112: Main Collider
+    100114: Needles
+    100116: Roll Cages
+    100118: Side Skirts
+    100120: Skirt 1
+    100122: Skirt 2
+    100124: Skirt 3
+    100126: Skirt 4
+    100128: Skirt 5
+    100130: Skirt 6
+    100132: Skirt Stock
+    100134: Speedometer Needle
+    100136: Spoiler 1
+    100138: Spoiler 2
+    100140: Spoiler 3
+    100142: Spoiler 4
+    100144: Spoiler 5
+    100146: Spoiler 6
+    100148: Spoiler 7
+    100150: Spoiler Stock
+    100152: Steeringwheel
+    100154: //RootNode
+    100156: Suspension LF
+    100158: Suspension LR
+    100160: Suspension RF
+    100162: Suspension RR
+    100164: Tachometer Needle
+    100166: Taillight L
+    100168: Taillight R
+    100170: Temp Needle
+    100172: Voltage Needle
+    100174: Wheel LF
+    100176: Wheel LR
+    100178: Wheel RF
+    100180: Wheel RR
+    100182: Window LF
+    100184: Window LR
+    100186: Window RF
+    100188: Window RR
+    100190: Windows
+    100192: Windscreen F
+    100194: Windscreen R
+    400000: Body Parts
+    400002: Bodyshell
+    400004: Bonnet
+    400006: Bonnet 1
+    400008: Bonnet 2
+    400010: Bonnet 3
+    400012: Bonnet 4
+    400014: Bonnet 5
+    400016: Bonnet STock
+    400018: Boot
+    400020: Bumper F 1
+    400022: Bumper F 2
+    400024: Bumper F 3
+    400026: Bumper F 4
+    400028: Bumper F 5
+    400030: Bumper F 6
+    400032: Bumper F Stock
+    400034: Bumper R 1
+    400036: Bumper R 2
+    400038: Bumper R 3
+    400040: Bumper R 4
+    400042: Bumper R 5
+    400044: Bumper R Stock
+    400046: Bumpers F
+    400048: Bumpers R
+    400050: Cage 1
+    400052: Cage 2
+    400054: Cage 3
+    400056: Cage 4
+    400058: Chassis
+    400060: Collider F 1
+    400062: Collider F 2
+    400064: Collider R 1
+    400066: Collider R 2
+    400068: Colliders
+    400070: Door LF
+    400072: Door RF
+    400074: Drivetrain
+    400076: Drivetrain Parts
+    400078: Engine
+    400080: Engine Parts
+    400082: Engine_MeshPart0
+    400084: Engine_MeshPart1
+    400086: Exhaust
+    400088: Exhaust 1
+    400090: Exhaust 2
+    400092: Exhaust Stock
+    400094: Fuel Needle
+    400096: Headlight L
+    400098: Headlight R
+    400100: Hub LF
+    400102: Hub LR
+    400104: Hub RF
+    400106: Hub RR
+    400108: Interior
+    400110: Lights
+    400112: Main Collider
+    400114: Needles
+    400116: Roll Cages
+    400118: Side Skirts
+    400120: Skirt 1
+    400122: Skirt 2
+    400124: Skirt 3
+    400126: Skirt 4
+    400128: Skirt 5
+    400130: Skirt 6
+    400132: Skirt Stock
+    400134: Speedometer Needle
+    400136: Spoiler 1
+    400138: Spoiler 2
+    400140: Spoiler 3
+    400142: Spoiler 4
+    400144: Spoiler 5
+    400146: Spoiler 6
+    400148: Spoiler 7
+    400150: Spoiler Stock
+    400152: Steeringwheel
+    400154: //RootNode
+    400156: Suspension LF
+    400158: Suspension LR
+    400160: Suspension RF
+    400162: Suspension RR
+    400164: Tachometer Needle
+    400166: Taillight L
+    400168: Taillight R
+    400170: Temp Needle
+    400172: Voltage Needle
+    400174: Wheel LF
+    400176: Wheel LR
+    400178: Wheel RF
+    400180: Wheel RR
+    400182: Window LF
+    400184: Window LR
+    400186: Window RF
+    400188: Window RR
+    400190: Windows
+    400192: Windscreen F
+    400194: Windscreen R
+    2300000: Bodyshell
+    2300002: Bonnet 1
+    2300004: Bonnet 2
+    2300006: Bonnet 3
+    2300008: Bonnet 4
+    2300010: Bonnet 5
+    2300012: Bonnet STock
+    2300014: Boot
+    2300016: Bumper F 1
+    2300018: Bumper F 2
+    2300020: Bumper F 3
+    2300022: Bumper F 4
+    2300024: Bumper F 5
+    2300026: Bumper F 6
+    2300028: Bumper F Stock
+    2300030: Bumper R 1
+    2300032: Bumper R 2
+    2300034: Bumper R 3
+    2300036: Bumper R 4
+    2300038: Bumper R 5
+    2300040: Bumper R Stock
+    2300042: Cage 1
+    2300044: Cage 2
+    2300046: Cage 3
+    2300048: Cage 4
+    2300050: Chassis
+    2300052: Collider F 1
+    2300054: Collider F 2
+    2300056: Collider R 1
+    2300058: Collider R 2
+    2300060: Door LF
+    2300062: Door RF
+    2300064: Drivetrain
+    2300066: Engine_MeshPart0
+    2300068: Engine_MeshPart1
+    2300070: Exhaust 1
+    2300072: Exhaust 2
+    2300074: Exhaust Stock
+    2300076: Fuel Needle
+    2300078: Headlight L
+    2300080: Headlight R
+    2300082: Hub LF
+    2300084: Hub LR
+    2300086: Hub RF
+    2300088: Hub RR
+    2300090: Main Collider
+    2300092: Skirt 1
+    2300094: Skirt 2
+    2300096: Skirt 3
+    2300098: Skirt 4
+    2300100: Skirt 5
+    2300102: Skirt 6
+    2300104: Skirt Stock
+    2300106: Speedometer Needle
+    2300108: Spoiler 1
+    2300110: Spoiler 2
+    2300112: Spoiler 3
+    2300114: Spoiler 4
+    2300116: Spoiler 5
+    2300118: Spoiler 6
+    2300120: Spoiler 7
+    2300122: Spoiler Stock
+    2300124: Steeringwheel
+    2300126: Suspension LF
+    2300128: Suspension LR
+    2300130: Suspension RF
+    2300132: Suspension RR
+    2300134: Tachometer Needle
+    2300136: Taillight L
+    2300138: Taillight R
+    2300140: Temp Needle
+    2300142: Voltage Needle
+    2300144: Wheel LF
+    2300146: Wheel LR
+    2300148: Wheel RF
+    2300150: Wheel RR
+    2300152: Window LF
+    2300154: Window LR
+    2300156: Window RF
+    2300158: Window RR
+    2300160: Windscreen F
+    2300162: Windscreen R
+    3300000: Bodyshell
+    3300002: Bonnet 1
+    3300004: Bonnet 2
+    3300006: Bonnet 3
+    3300008: Bonnet 4
+    3300010: Bonnet 5
+    3300012: Bonnet STock
+    3300014: Boot
+    3300016: Bumper F 1
+    3300018: Bumper F 2
+    3300020: Bumper F 3
+    3300022: Bumper F 4
+    3300024: Bumper F 5
+    3300026: Bumper F 6
+    3300028: Bumper F Stock
+    3300030: Bumper R 1
+    3300032: Bumper R 2
+    3300034: Bumper R 3
+    3300036: Bumper R 4
+    3300038: Bumper R 5
+    3300040: Bumper R Stock
+    3300042: Cage 1
+    3300044: Cage 2
+    3300046: Cage 3
+    3300048: Cage 4
+    3300050: Chassis
+    3300052: Collider F 1
+    3300054: Collider F 2
+    3300056: Collider R 1
+    3300058: Collider R 2
+    3300060: Door LF
+    3300062: Door RF
+    3300064: Drivetrain
+    3300066: Engine_MeshPart0
+    3300068: Engine_MeshPart1
+    3300070: Exhaust 1
+    3300072: Exhaust 2
+    3300074: Exhaust Stock
+    3300076: Fuel Needle
+    3300078: Headlight L
+    3300080: Headlight R
+    3300082: Hub LF
+    3300084: Hub LR
+    3300086: Hub RF
+    3300088: Hub RR
+    3300090: Main Collider
+    3300092: Skirt 1
+    3300094: Skirt 2
+    3300096: Skirt 3
+    3300098: Skirt 4
+    3300100: Skirt 5
+    3300102: Skirt 6
+    3300104: Skirt Stock
+    3300106: Speedometer Needle
+    3300108: Spoiler 1
+    3300110: Spoiler 2
+    3300112: Spoiler 3
+    3300114: Spoiler 4
+    3300116: Spoiler 5
+    3300118: Spoiler 6
+    3300120: Spoiler 7
+    3300122: Spoiler Stock
+    3300124: Steeringwheel
+    3300126: Suspension LF
+    3300128: Suspension LR
+    3300130: Suspension RF
+    3300132: Suspension RR
+    3300134: Tachometer Needle
+    3300136: Taillight L
+    3300138: Taillight R
+    3300140: Temp Needle
+    3300142: Voltage Needle
+    3300144: Wheel LF
+    3300146: Wheel LR
+    3300148: Wheel RF
+    3300150: Wheel RR
+    3300152: Window LF
+    3300154: Window LR
+    3300156: Window RF
+    3300158: Window RR
+    3300160: Windscreen F
+    3300162: Windscreen R
+    4300000: Collider R 2
+    4300002: Collider R 1
+    4300004: Collider F 2
+    4300006: Collider F 1
+    4300008: Main Collider
+    4300010: Hub LR
+    4300012: Wheel LR
+    4300014: Hub RR
+    4300016: Wheel RR
+    4300018: Hub RF
+    4300020: Wheel RF
+    4300022: Hub LF
+    4300024: Wheel LF
+    4300026: Suspension LR
+    4300028: Drivetrain
+    4300030: Suspension RF
+    4300032: Suspension LF
+    4300034: Suspension RR
+    4300036: Voltage Needle
+    4300038: Fuel Needle
+    4300040: Speedometer Needle
+    4300042: Temp Needle
+    4300044: Tachometer Needle
+    4300046: Cage 3
+    4300048: Cage 4
+    4300050: Cage 2
+    4300052: Cage 1
+    4300054: Steeringwheel
+    4300056: Window LR
+    4300058: Windscreen F
+    4300060: Window RR
+    4300062: Headlight R
+    4300064: Taillight R
+    4300066: Headlight L
+    4300068: Taillight L
+    4300070: Exhaust 1
+    4300072: Exhaust 2
+    4300074: Exhaust Stock
+    4300076: Engine_MeshPart0
+    4300078: Engine_MeshPart1
+    4300080: Bonnet 3
+    4300082: Bonnet 1
+    4300084: Bonnet 2
+    4300086: Bonnet 4
+    4300088: Bonnet 5
+    4300090: Bonnet STock
+    4300092: Bumper R 2
+    4300094: Bumper R 3
+    4300096: Bumper R 4
+    4300098: Bumper R 5
+    4300100: Bumper R 1
+    4300102: Bumper R Stock
+    4300104: Skirt 3
+    4300106: Skirt 1
+    4300108: Skirt 4
+    4300110: Skirt 2
+    4300112: Skirt 5
+    4300114: Skirt 6
+    4300116: Skirt Stock
+    4300118: Bumper F 2
+    4300120: Bumper F 1
+    4300122: Bumper F 3
+    4300124: Bumper F 4
+    4300126: Bumper F 5
+    4300128: Bumper F 6
+    4300130: Bumper F Stock
+    4300132: Bodyshell
+    4300134: Chassis
+    4300136: Door RF
+    4300138: Window RF
+    4300140: Door LF
+    4300142: Window LF
+    4300144: Boot
+    4300146: Spoiler 1
+    4300148: Spoiler 2
+    4300150: Spoiler 3
+    4300152: Spoiler 4
+    4300154: Spoiler 5
+    4300156: Spoiler 6
+    4300158: Spoiler 7
+    4300160: Windscreen R
+    4300162: Spoiler Stock
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
