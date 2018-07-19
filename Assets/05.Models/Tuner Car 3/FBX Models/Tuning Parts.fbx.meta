@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 31ac66f0e4f519140b93e5a3ddbd26a4
+timeCreated: 1467396932
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bumper_F_1
+    100002: Bumper_F_2
+    100004: Bumper_F_3
+    100006: Bumper_F_4
+    100008: Bumper_F_5
+    100010: Bumper_R_1
+    100012: Bumper_R_2
+    100014: Bumper_R_3
+    100016: Bumper_R_4
+    100018: Exhaust_1
+    100020: Exhaust_2
+    100022: Exhaust_3
+    100024: Exhaust_4
+    100026: Exhaust_5
+    100028: Hood_1
+    100030: Hood_2
+    100032: Intercooler_1
+    100034: Roll Cage_1
+    100036: Roll Cage_2
+    100038: Roll Cage_3
+    100040: Skirt_1
+    100042: Skirt_2
+    100044: Skirt_3
+    100046: Skirt_4
+    100048: Skirt_5
+    100050: Spoiler_1
+    100052: Spoiler_2
+    100054: Spoiler_3
+    100056: Spoiler_4
+    100058: Spoiler_5
+    100060: Spoiler_6
+    100062: //RootNode
+    400000: Bumper_F_1
+    400002: Bumper_F_2
+    400004: Bumper_F_3
+    400006: Bumper_F_4
+    400008: Bumper_F_5
+    400010: Bumper_R_1
+    400012: Bumper_R_2
+    400014: Bumper_R_3
+    400016: Bumper_R_4
+    400018: Exhaust_1
+    400020: Exhaust_2
+    400022: Exhaust_3
+    400024: Exhaust_4
+    400026: Exhaust_5
+    400028: Hood_1
+    400030: Hood_2
+    400032: Intercooler_1
+    400034: Roll Cage_1
+    400036: Roll Cage_2
+    400038: Roll Cage_3
+    400040: Skirt_1
+    400042: Skirt_2
+    400044: Skirt_3
+    400046: Skirt_4
+    400048: Skirt_5
+    400050: Spoiler_1
+    400052: Spoiler_2
+    400054: Spoiler_3
+    400056: Spoiler_4
+    400058: Spoiler_5
+    400060: Spoiler_6
+    400062: //RootNode
+    2300000: Bumper_F_1
+    2300002: Bumper_F_2
+    2300004: Bumper_F_3
+    2300006: Bumper_F_4
+    2300008: Bumper_F_5
+    2300010: Bumper_R_1
+    2300012: Bumper_R_2
+    2300014: Bumper_R_3
+    2300016: Bumper_R_4
+    2300018: Exhaust_1
+    2300020: Exhaust_2
+    2300022: Exhaust_3
+    2300024: Exhaust_4
+    2300026: Exhaust_5
+    2300028: Hood_1
+    2300030: Hood_2
+    2300032: Intercooler_1
+    2300034: Roll Cage_1
+    2300036: Roll Cage_2
+    2300038: Roll Cage_3
+    2300040: Skirt_1
+    2300042: Skirt_2
+    2300044: Skirt_3
+    2300046: Skirt_4
+    2300048: Skirt_5
+    2300050: Spoiler_1
+    2300052: Spoiler_2
+    2300054: Spoiler_3
+    2300056: Spoiler_4
+    2300058: Spoiler_5
+    2300060: Spoiler_6
+    3300000: Bumper_F_1
+    3300002: Bumper_F_2
+    3300004: Bumper_F_3
+    3300006: Bumper_F_4
+    3300008: Bumper_F_5
+    3300010: Bumper_R_1
+    3300012: Bumper_R_2
+    3300014: Bumper_R_3
+    3300016: Bumper_R_4
+    3300018: Exhaust_1
+    3300020: Exhaust_2
+    3300022: Exhaust_3
+    3300024: Exhaust_4
+    3300026: Exhaust_5
+    3300028: Hood_1
+    3300030: Hood_2
+    3300032: Intercooler_1
+    3300034: Roll Cage_1
+    3300036: Roll Cage_2
+    3300038: Roll Cage_3
+    3300040: Skirt_1
+    3300042: Skirt_2
+    3300044: Skirt_3
+    3300046: Skirt_4
+    3300048: Skirt_5
+    3300050: Spoiler_1
+    3300052: Spoiler_2
+    3300054: Spoiler_3
+    3300056: Spoiler_4
+    3300058: Spoiler_5
+    3300060: Spoiler_6
+    4300000: Spoiler_2
+    4300002: Bumper_R_4
+    4300004: Exhaust_4
+    4300006: Spoiler_3
+    4300008: Bumper_F_1
+    4300010: Bumper_R_2
+    4300012: Roll Cage_1
+    4300014: Spoiler_4
+    4300016: Exhaust_1
+    4300018: Hood_1
+    4300020: Bumper_R_3
+    4300022: Spoiler_1
+    4300024: Skirt_5
+    4300026: Bumper_F_2
+    4300028: Skirt_4
+    4300030: Spoiler_5
+    4300032: Roll Cage_2
+    4300034: Exhaust_2
+    4300036: Roll Cage_3
+    4300038: Intercooler_1
+    4300040: Bumper_F_4
+    4300042: Skirt_3
+    4300044: Spoiler_6
+    4300046: Skirt_1
+    4300048: Bumper_R_1
+    4300050: Exhaust_5
+    4300052: Exhaust_3
+    4300054: Bumper_F_5
+    4300056: Bumper_F_3
+    4300058: Hood_2
+    4300060: Skirt_2
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

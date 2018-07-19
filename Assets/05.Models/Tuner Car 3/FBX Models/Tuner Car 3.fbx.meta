@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 57f30b33195bfbe4dbf3fc271a8d4e1d
+timeCreated: 1466234322
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bonnet
+    100004: Boot
+    100006: Brakelight_M
+    100008: Bumper_F
+    100010: Bumper_R
+    100012: Chassis
+    100014: Door_L
+    100016: Door_R
+    100018: Engine
+    100020: Engine_details
+    100022: Exhaust
+    100024: Gauges
+    100026: Headlight_L
+    100028: Headlight_R
+    100030: Headlighta
+    100032: Indicator_LF
+    100034: Indicator_LR
+    100036: Indicator_RF
+    100038: Indicator_RR
+    100040: License Plate
+    100042: Mirror_L
+    100044: Mirror_M
+    100046: Mirror_R
+    100048: Reverselight_L
+    100050: Reverselight_R
+    100052: Seats
+    100054: Steering Wheel
+    100056: Taillight_L
+    100058: Taillight_R
+    100060: //RootNode
+    100062: Window_L
+    100064: Window_R
+    100066: Windscreen
+    100068: Windscreen_R
+    400000: Body
+    400002: Bonnet
+    400004: Boot
+    400006: Brakelight_M
+    400008: Bumper_F
+    400010: Bumper_R
+    400012: Chassis
+    400014: Door_L
+    400016: Door_R
+    400018: Engine
+    400020: Engine_details
+    400022: Exhaust
+    400024: Gauges
+    400026: Headlight_L
+    400028: Headlight_R
+    400030: Headlighta
+    400032: Indicator_LF
+    400034: Indicator_LR
+    400036: Indicator_RF
+    400038: Indicator_RR
+    400040: License Plate
+    400042: Mirror_L
+    400044: Mirror_M
+    400046: Mirror_R
+    400048: Reverselight_L
+    400050: Reverselight_R
+    400052: Seats
+    400054: Steering Wheel
+    400056: Taillight_L
+    400058: Taillight_R
+    400060: //RootNode
+    400062: Window_L
+    400064: Window_R
+    400066: Windscreen
+    400068: Windscreen_R
+    2300000: Body
+    2300002: Bonnet
+    2300004: Boot
+    2300006: Brakelight_M
+    2300008: Bumper_F
+    2300010: Bumper_R
+    2300012: Chassis
+    2300014: Door_L
+    2300016: Door_R
+    2300018: Engine
+    2300020: Engine_details
+    2300022: Exhaust
+    2300024: Gauges
+    2300026: Headlight_L
+    2300028: Headlight_R
+    2300030: Headlighta
+    2300032: Indicator_LF
+    2300034: Indicator_LR
+    2300036: Indicator_RF
+    2300038: Indicator_RR
+    2300040: License Plate
+    2300042: Mirror_L
+    2300044: Mirror_M
+    2300046: Mirror_R
+    2300048: Reverselight_L
+    2300050: Reverselight_R
+    2300052: Seats
+    2300054: Steering Wheel
+    2300056: Taillight_L
+    2300058: Taillight_R
+    2300060: Window_L
+    2300062: Window_R
+    2300064: Windscreen
+    2300066: Windscreen_R
+    3300000: Body
+    3300002: Bonnet
+    3300004: Boot
+    3300006: Brakelight_M
+    3300008: Bumper_F
+    3300010: Bumper_R
+    3300012: Chassis
+    3300014: Door_L
+    3300016: Door_R
+    3300018: Engine
+    3300020: Engine_details
+    3300022: Exhaust
+    3300024: Gauges
+    3300026: Headlight_L
+    3300028: Headlight_R
+    3300030: Headlighta
+    3300032: Indicator_LF
+    3300034: Indicator_LR
+    3300036: Indicator_RF
+    3300038: Indicator_RR
+    3300040: License Plate
+    3300042: Mirror_L
+    3300044: Mirror_M
+    3300046: Mirror_R
+    3300048: Reverselight_L
+    3300050: Reverselight_R
+    3300052: Seats
+    3300054: Steering Wheel
+    3300056: Taillight_L
+    3300058: Taillight_R
+    3300060: Window_L
+    3300062: Window_R
+    3300064: Windscreen
+    3300066: Windscreen_R
+    4300000: Mirror_M
+    4300002: Mirror_R
+    4300004: Mirror_L
+    4300006: Exhaust
+    4300008: Engine
+    4300010: Indicator_RR
+    4300012: Headlight_R
+    4300014: Indicator_LR
+    4300016: Steering Wheel
+    4300018: Body
+    4300020: Brakelight_M
+    4300022: Windscreen_R
+    4300024: Bumper_R
+    4300026: Window_L
+    4300028: Window_R
+    4300030: Windscreen
+    4300032: Headlighta
+    4300034: Gauges
+    4300036: Headlight_L
+    4300038: Taillight_L
+    4300040: Reverselight_L
+    4300042: Engine_details
+    4300044: Chassis
+    4300046: License Plate
+    4300048: Taillight_R
+    4300050: Bonnet
+    4300052: Indicator_RF
+    4300054: Reverselight_R
+    4300056: Door_L
+    4300058: Door_R
+    4300060: Indicator_LF
+    4300062: Bumper_F
+    4300064: Seats
+    4300066: Boot
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
