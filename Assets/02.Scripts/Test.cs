@@ -9,6 +9,8 @@ public class Test : MonoBehaviour
     public float maxMotorTorque;
     public float maxSteeringAngle;
 
+    public float brakeTorque;
+
     private void Update()
     {
         UpdateMeshsPositions();
