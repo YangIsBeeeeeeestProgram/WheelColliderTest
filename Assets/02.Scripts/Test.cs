@@ -24,7 +24,6 @@ public class Test : MonoBehaviour
         float motor = -Input.GetAxis("Vertical");
         wheelColliders[2].motorTorque = motor * maxMotorTorque;
         wheelColliders[3].motorTorque = motor * maxMotorTorque;
-
     }
 
     void UpdateMeshsPositions()
